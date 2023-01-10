@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "XX2dEt4X6KGlQecJGbnz8qwmyDIWLaAVJ3JKEebQa9xYndt2fvgQT9KLsFa8mWMutf3OR3n44LXxCXbuNc/OLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anjalisheel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\ms.system.xaml\\1.0.0\\ms.system.xaml.1.0.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\system.security.permissions\\4.4.0\\system.security.permissions.4.4.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\anjalisheel\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ms.System.Xaml 1.0.0 depends on System.Security.Permissions (>= 1.0.0) but System.Security.Permissions 1.0.0 was not found. An approximate best match of System.Security.Permissions 4.4.0 was resolved.",
+      "libraryId": "System.Security.Permissions",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ms.System.Xaml 1.0.0 depends on System.Windows.Extensions (>= 1.0.0) but System.Windows.Extensions 1.0.0 was not found. An approximate best match of System.Windows.Extensions 4.6.0 was resolved.",
+      "libraryId": "System.Windows.Extensions",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
