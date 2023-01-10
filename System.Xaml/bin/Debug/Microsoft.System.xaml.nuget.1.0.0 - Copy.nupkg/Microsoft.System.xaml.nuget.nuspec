@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.System.xaml.nuget</id>
+    <version>1.0.0</version>
+    <authors>WPF team</authors>
+    <description>NuGet package to use System.Xaml separetely from WPF on server-side for purposes that aren't related to UI in any way, shape or form to make it useful in .NET Standard libraries.</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="System.Security.Permissions" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Windows.Extensions" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

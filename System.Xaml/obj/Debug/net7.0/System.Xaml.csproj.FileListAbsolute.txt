@@ -1,0 +1,14 @@
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\bin\Debug\net7.0\System.Xaml.deps.json
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\bin\Debug\net7.0\System.Xaml.dll
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\bin\Debug\net7.0\System.Xaml.pdb
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.csproj.AssemblyReference.cache
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.Resources.Strings.resources
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.csproj.GenerateResource.cache
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.AssemblyInfoInputs.cache
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.AssemblyInfo.cs
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.csproj.CoreCompileInputs.cache
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.dll
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\refint\System.Xaml.dll
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\System.Xaml.pdb
+C:\Users\anjalisheel\source\repos\System.Xaml\System.Xaml\obj\Debug\net7.0\ref\System.Xaml.dll
